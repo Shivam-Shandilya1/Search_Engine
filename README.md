@@ -67,9 +67,8 @@ Instructions:-
 
 
 3)	Document Names have been displayed in the terminal with docnames saved in the ‘RetrievedDocuments.txt’ related to ur queries.
-Team Members:-
-Shivam Shandilya 2020A7PS2094H
-Sathivik
+
+Shivam Shandilya
 
 
 
